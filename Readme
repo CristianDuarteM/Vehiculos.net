@@ -4,5 +4,10 @@ Esta desarrollado en  ASP.NET desde Visual Studio 2019
 
 Basada en una arquitectura MVC y con haciendo uno de Bases de datos SQL Server
 
-quien lo realizo  fue: Aprende DotNet:
+Para ejecutar el proyecto se necesita tener instalado la herramienta Visual Estudio 2019
+Abrirlo desde esta, una vez abierta esta ya se puede ejecutar.
+
+
+------------------------------------------
+El desarrollador autor: Aprende DotNet:
 https://www.youtube.com/watch?v=6bABOjp7sA8

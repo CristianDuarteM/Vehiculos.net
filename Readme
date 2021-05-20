@@ -1,6 +1,8 @@
 Este es un proyecto basico de gestion de vehiculos el cual se basa en agregdar, editar, consultar o eliminar vehiculos
 
-Esta desarrollado en  ASP.NET MVC 5 desde Visual Studio 2019
+Esta desarrollado en  ASP.NET desde Visual Studio 2019  
+
+Basada en una arquitectura MVC y con haciendo uno de Bases de datos SQL Server
 
 quien lo realizo  fue: Aprende DotNet:
 https://www.youtube.com/watch?v=6bABOjp7sA8
